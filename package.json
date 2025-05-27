@@ -1,0 +1,15 @@
+{
+  "name": "dream-portal-tests",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "playwright test",
+    "report": "playwright show-report"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.25.1",
+    "playwright": "^1.42.1"
+  }
+}
+

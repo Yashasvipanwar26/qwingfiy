@@ -1,0 +1,10 @@
+
+Key features of this README:
+1. Clearly mentions using `npx playwright test` as the run command
+2. Includes the exact folder structure you have
+3. Documents all test coverage areas
+4. Provides troubleshooting tips
+5. Follows professional formatting
+6. Acknowledges the assignment requirements
+
+You can customize the sections marked with `[ ]` based on which bonus features you implemented. The README is written in standard Markdown format and will render properly on GitHub.
